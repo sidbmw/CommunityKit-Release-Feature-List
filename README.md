@@ -35,6 +35,7 @@ app_id: 6730000000
 app_icon: ./Resources/YourAwesomeApp/yourawesomeapp.png
 website: https://yourawesomeapp.com
 ```
+
 ## Note
 - Please make sure you're setting your image to be 128x128 in size within the table.
 
