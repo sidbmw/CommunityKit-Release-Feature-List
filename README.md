@@ -53,7 +53,8 @@ Copy and paste these as needed for the **Platforms** column:
 - ![iOS](https://img.shields.io/badge/iOS-blue?logo=apple&logoColor=white)  
 - ![macOS](https://img.shields.io/badge/macOS-black?logo=apple&logoColor=white)  
 - ![watchOS](https://img.shields.io/badge/watchOS-green?logo=apple&logoColor=white)  
-- ![visionOS](https://img.shields.io/badge/visionOS-purple?logo=apple&logoColor=white)  
+- ![visionOS](https://img.shields.io/badge/visionOS-purple?logo=apple&logoColor=white)
+- ![tvOS](https://img.shields.io/badge/tvOS-pink?logo=apple&logoColor=white)  
 
 ---
 
