@@ -18,23 +18,25 @@ Please include:
 - **App Name**  
 - **Description** (≤200 characters)  
 - **Platforms** (badges are provided below for convenience)  
-- **App Icon** (place inside `Resources/<YourAppName>/AppIcon.png`)  
+- **App Icon** (place inside `Resources/<YourAppName>/>FileName>.png`)  
 - **App Store ID or URL**  
 - **Website / Press Kit link**  
 
 ---
 
 ## 📝 Example Submission (YAML reference)
-This YAML example shows the fields you’ll be adding to the table:  
+This example shows the fields you’ll be adding to the table:  
 
 ```yaml
-name: Pediapal
-description: A child health monitor that helps parents track vitals, medications, and routines.
-platforms: [iOS]
-app_id: 6739232517
-app_icon: ./Resources/Pediapal/AppIcon.png
-website: https://pediapal.app
+name: Your Awesome App
+description: A great app that does amazing things stylishly.
+platforms: [iOS, tvOS]
+app_id: 6730000000
+app_icon: ./Resources/YourAwesomeApp/yourawesomeapp.png
+website: https://yourawesomeapp.com
 ```
+## Note
+- Please make sure you're setting your image to be 128x128 in size within the table.
 
 ---
 
