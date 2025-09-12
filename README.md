@@ -43,7 +43,7 @@ Here’s the showcase of apps submitted for **CommunityKit 2025**! 🎉
 
 | Icon | App | Description | Platforms | Links |
 |------|-----|-------------|-----------|-------|
-| <img src="./Resources/Pediapal/pediapal.png" width="1024" height="1024"> | **Pediapal** | A child health monitor that helps parents track vitals, medications, and routines. | ![iOS](https://img.shields.io/badge/iOS-blue?logo=apple&logoColor=white) | [App Store](https://apps.apple.com/app/id6739232517) · [Website](https://pediapal.app) |
+| <img src="./Resources/Pediapal/pediapal.png" width="128" height="128"> | **Pediapal** | A child health monitor that helps parents track vitals, medications, and routines. | ![iOS](https://img.shields.io/badge/iOS-blue?logo=apple&logoColor=white) | [App Store](https://apps.apple.com/app/id6739232517) · [Website](https://pediapal.app) |
 
 ---
 
