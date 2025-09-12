@@ -1,9 +1,0 @@
-# 📝 CommunityKit 2025 Submission Template
-# Fill out the fields below and submit as part of your PR.
-# Please keep descriptions concise (≤ 200 characters).
-
-name: Your App Name Here
-description: A short description of your app (max 200 characters).
-platforms: [iOS, macOS, watchOS, visionOS]   # List the platforms you support
-app_id: 1234567890                           # Found in App Store Connect or use your App Store URL
-app_icon: ./assets/your-app-name/AppIcon.png # Path to your App Icon or image
