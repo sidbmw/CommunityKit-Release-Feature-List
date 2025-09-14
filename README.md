@@ -33,7 +33,7 @@ Make sure to follow the intended format.
 
 **Write it in the following format**
 
-| <img src=""> | **App Name** | Description ≤200 characters | ![iOS](https://img.shields.io/badge/iOS-blue?logo=apple&logoColor=white) | [App Store](https://developer.apple.com) · [Website](https://communityKit)
+| <img src="https://github.com/community-kit/CommunityKit-Release-Feature-List/blob/main/Resources/CommunityKitIcon.png" width="128" height="128" alt="CommunityKit icon"> | **App Name** | Description ≤200 characters | ![iOS](https://img.shields.io/badge/iOS-blue?logo=apple&logoColor=white) | [App Store](https://developer.apple.com) · [Website](https://communityKit)
 
 ---
 
